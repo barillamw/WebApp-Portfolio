@@ -4,7 +4,7 @@
   "description": "Portfolio for Software Development",
   "scripts": {
     "clean": "gatsby clean",
-    "develop": "gatsby develop",
+    "develop": "mkdir -p .cache && gatsby develop",
     "build": "gatsby build",
     "serve": "gatsby serve"
   },
@@ -18,5 +18,9 @@
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
-  "author": "Michael Barilla"
+  "author": "Michael Barilla",
+  "resolutions": {
+    "lmdb": "2.9.4",
+    "msgpackr": "1.11.12"
+  }
 }
