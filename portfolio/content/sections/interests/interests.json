@@ -1,30 +1,8 @@
 {
   "interests": [
     {
-      "label": "Python",
+      "label": "Go",
       "image": {
-        "src": "../../images/skills/python.png",
-        "alt": ""
-      }
-    },
-    {
-      "label": "C & C++",
-      "image": {
-        "src": "../../images/skills/C.png",
-        "alt": ""
-      }
-    },
-    {
-      "label": "React",
-      "image": {
-        "src": "../../images/skills/react.png",
-        "alt": ""
-      }
-    },
-    {
-      "label": "TypeScript",
-      "image": {
-        "src": "../../images/skills/typescript.png",
         "alt": ""
       }
     },
@@ -36,12 +14,44 @@
       }
     },
     {
-      "label": "Azure",
+      "label": "TypeScript",
       "image": {
-        "src": "../../images/skills/azure.png",
+        "src": "../../images/skills/typescript.png",
         "alt": ""
       }
-    }, 
+    },
+    {
+      "label": "Python",
+      "image": {
+        "src": "../../images/skills/python.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "AWS",
+      "image": {
+        "alt": ""
+      }
+    },
+    {
+      "label": "Spring Boot",
+      "image": {
+        "alt": ""
+      }
+    },
+    {
+      "label": "Angular",
+      "image": {
+        "alt": ""
+      }
+    },
+    {
+      "label": "React",
+      "image": {
+        "src": "../../images/skills/react.png",
+        "alt": ""
+      }
+    },
     {
       "label": "SQL",
       "image": {
@@ -50,23 +60,8 @@
       }
     },
     {
-      "label": "Django",
+      "label": "Kubernetes",
       "image": {
-        "src": "../../images/skills/django.png",
-        "alt": ""
-      }
-    },
-    {
-      "label": "Gatsby",
-      "image": {
-        "src": "../../images/skills/gatsby.png",
-        "alt": ""
-      }
-    },
-    {
-      "label": "Flutter",
-      "image": {
-        "src": "../../images/skills/flutter.png",
         "alt": ""
       }
     },
@@ -78,9 +73,42 @@
       }
     },
     {
+      "label": "Playwright",
+      "image": {
+        "alt": ""
+      }
+    },
+    {
+      "label": "AI Agents & MCP",
+      "image": {
+        "alt": ""
+      }
+    },
+    {
       "label": "Terraform",
       "image": {
         "src": "../../images/skills/terraform.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Azure",
+      "image": {
+        "src": "../../images/skills/azure.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Django",
+      "image": {
+        "src": "../../images/skills/django.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "C & C++",
+      "image": {
+        "src": "../../images/skills/C.png",
         "alt": ""
       }
     }

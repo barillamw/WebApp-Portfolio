@@ -5,21 +5,26 @@
       "category": "AI Research",
       "title": "Navigating the Complexities of Natural Language Inference with BERT",
       "description": "Explore the intricate challenges of implementing Natural Language Inference (NLI) using the BERT model. This project delves into the nuances of language understanding, scrutinizing the assumptions and methods employed, while emphasizing the importance of external validation, iterative refinement, and transparency in responsible NLP model deployment.",
-      "tags": ["NLP", "Machine Learning"],
+      "tags": [
+        "NLP",
+        "Machine Learning"
+      ],
       "image": {
         "src": "../../images/markus-spiske-iar-afB0QQw-unsplash.jpg",
         "alt": "Image of code on a screen",
         "linkTo": "/projects/llm-research"
       },
-      "links": [
-      ]
+      "links": []
     },
     {
       "visible": true,
       "category": "Web Application",
       "title": "Wordle Clone",
       "description": "Explore the development journey of a captivating word game application that features seamless data persistence, intuitive daily streak tracking, and an interactive user interface built with React and Tailwind CSS.",
-      "tags": ["React", "Tailwind CSS"],
+      "tags": [
+        "React",
+        "Tailwind CSS"
+      ],
       "image": {
         "src": "../../images/nils-huenerfuerst-E-IQ1nbpzZo-unsplash.jpg",
         "alt": "Image of World Screen",
@@ -38,10 +43,13 @@
     },
     {
       "visible": true,
-      "category": "Mobile Application",
-      "title": "Workout Tracking App",
-      "description": "A comprehensive solution for logging and managing workout routines and exercises. Built on Django, this RESTful API provides a robust backend to support your fitness journey. With a MySQL Server database and future plans for a Flutter UI, this API is designed to seamlessly track and visualize your workout progress.",
-      "tags": ["RESTful API", "Python"],
+      "category": "REST API",
+      "title": "Workout Tracking API",
+      "description": "A backend for logging and managing workout routines and exercises. Built with Django and a MySQL Server database, this RESTful API stores and recalls your workout history so you can track progress over time.",
+      "tags": [
+        "RESTful API",
+        "Python"
+      ],
       "image": {
         "src": "../../images/workoutBuddy_lifting.jpg",
         "alt": "Workout",
@@ -59,6 +67,6 @@
     "visible": true,
     "label": "View More",
     "url": "/projects/",
-    "externalLink":false
+    "externalLink": false
   }
 }

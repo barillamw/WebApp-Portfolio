@@ -10,13 +10,16 @@
   },
   "title": "I'm Michael",
   "subtitle": {
-    "prefix": "Software Engineer",
+    "prefix": "Senior Software Engineer",
     "highlight": "",
     "suffix": ""
   },
-  "description": "A passionate and dedicated developer with a strong love for security focused design and socially conscious coding. Welcome to my digital space, where I'll take you on a journey through the world of development.",
+  "description": "I build backend services and distributed systems that other people depend on, from partner-facing APIs to the tools engineering teams use to ship with AI agents. Welcome to my corner of the web.",
   "socialProfiles": {
-    "from": ["LinkedIn", "Github"],
+    "from": [
+      "LinkedIn",
+      "Github"
+    ],
     "showIcons": false
   }
 }
