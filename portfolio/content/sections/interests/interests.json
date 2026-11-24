@@ -3,6 +3,7 @@
     {
       "label": "Go",
       "image": {
+        "src": "../../images/skills/go.png",
         "alt": ""
       }
     },
@@ -30,18 +31,21 @@
     {
       "label": "AWS",
       "image": {
+        "src": "../../images/skills/aws.png",
         "alt": ""
       }
     },
     {
       "label": "Spring Boot",
       "image": {
+        "src": "../../images/skills/spring.png",
         "alt": ""
       }
     },
     {
       "label": "Angular",
       "image": {
+        "src": "../../images/skills/angular.png",
         "alt": ""
       }
     },
@@ -62,6 +66,7 @@
     {
       "label": "Kubernetes",
       "image": {
+        "src": "../../images/skills/kubernetes.png",
         "alt": ""
       }
     },
@@ -75,12 +80,14 @@
     {
       "label": "Playwright",
       "image": {
+        "src": "../../images/skills/playwright.png",
         "alt": ""
       }
     },
     {
       "label": "AI Agents & MCP",
       "image": {
+        "src": "../../images/skills/mcp.png",
         "alt": ""
       }
     },
