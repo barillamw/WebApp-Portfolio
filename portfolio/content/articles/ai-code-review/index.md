@@ -52,7 +52,7 @@ Those two cases turned into a short list of questions for any AI-assisted pull r
 
 ### Review at Volume
 
-Over two months, I reviewed 66 pull requests across 9 repositories. To keep up, I built a multi-agent tool that automates a first review pass across 18 microservice repositories, so human attention goes to the questions above instead of formatting and obvious mistakes.
+With agents writing more of the code, the pull requests kept coming. To keep up, I built a multi-agent tool that automates a first review pass across 18 microservice repositories, so human attention goes to the questions above instead of formatting and obvious mistakes.
 
 ### Outcome
 
