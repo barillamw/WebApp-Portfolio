@@ -3,9 +3,9 @@ title: "The Save Button That Never Came Back: Debugging a Deadlock in a Shared Q
 description: "Some saves just hung. The cause turned out to be two well-behaved pieces of database code waiting on each other in the same line."
 date: "2026-11-24"
 banner:
-  src: "../../images/a-chosen-soul-EoxXApH1UKI-unsplash.jpg"
-  alt: "Black and white network of interconnected dots"
-  caption: 'Photo by <a href="https://unsplash.com/photos/EoxXApH1UKI">A Chosen Soul</a> on <a href="https://unsplash.com">Unsplash</a>'
+  src: "../../images/james-lo-BntDJXvsacQ-unsplash.jpg"
+  alt: "A long line of cars stopped in traffic"
+  caption: 'Photo by <a href="https://unsplash.com/@olsemaj?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">James Lo</a> on <a href="https://unsplash.com/photos/a-long-line-of-cars-in-traffic-BntDJXvsacQ?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>'
 categories:
   - "Debugging"
   - "Concurrency"
@@ -58,4 +58,4 @@ Each helper did its job on its own. The bug lived in the space between them, in 
 [ECS]: https://img.shields.io/badge/Amazon_ECS-FF9900?style=for-the-badge&logo=amazonecs&logoColor=white
 [ECS-url]: https://aws.amazon.com/ecs/
 
-!["Black and white network of interconnected dots"](../../images/a-chosen-soul-EoxXApH1UKI-unsplash.jpg 'Photo by A Chosen Soul on Unsplash')
+!["A long line of cars stopped in traffic"](../../images/james-lo-BntDJXvsacQ-unsplash.jpg 'Photo by James Lo on Unsplash')

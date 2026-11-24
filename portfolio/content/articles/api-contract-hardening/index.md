@@ -3,9 +3,9 @@ title: "Your 502 Is Lying: Hardening a Partner-Facing API Contract"
 description: "To a partner, a 502 means the service is down. For three bugs, it really meant the request had something the API didn't expect, and nobody on the other end could tell the difference."
 date: "2026-11-24"
 banner:
-  src: "../../images/markus-spiske-PsRUMc7vilg-unsplash.jpg"
-  alt: "Error messages and source code text on a dark screen"
-  caption: 'Photo by <a href="https://unsplash.com/@markusspiske?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Markus Spiske</a> on <a href="https://unsplash.com/photos/text-PsRUMc7vilg?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>'
+  src: "../../images/eliobed-suarez-PN-YnI5stdQ-unsplash.jpg"
+  alt: "Traffic light showing red"
+  caption: 'Photo by <a href="https://unsplash.com/@eliobedsuarez?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Eliobed Suarez</a> on <a href="https://unsplash.com/photos/traffic-light-with-red-light-PN-YnI5stdQ?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>'
 categories:
   - "API Design"
   - "Backend Engineering"
@@ -73,4 +73,4 @@ Your error codes are part of your interface, and partners build their integratio
 [Postman]: https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white
 [Postman-url]: https://www.postman.com/
 
-!["Error messages and source code text"](../../images/markus-spiske-PsRUMc7vilg-unsplash.jpg 'Photo by Markus Spiske on Unsplash')
+!["Traffic light showing red"](../../images/eliobed-suarez-PN-YnI5stdQ-unsplash.jpg 'Photo by Eliobed Suarez on Unsplash')
