@@ -4,9 +4,9 @@
     "siteUrl": "https://portfolio.barillamw.com/",
     "title": "Michael Barilla's Portfolio",
     "titleTemplate": "%s",
-    "description": "A software developer's portfolio",
+    "description": "Portfolio of Michael Barilla, a senior software engineer building backend services, distributed systems, and AI-assisted engineering workflows.",
     "author": "Michael Barilla",
-    "bio": "",
+    "bio": "Senior software engineer focused on backend services, partner-facing APIs, and building with AI agents.",
     "social": {
       "github": "https://github.com/barillamw",
       "medium": "https://medium.com/@mwbarilla",
