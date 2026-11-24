@@ -1,7 +1,7 @@
 ---
 title: "The Whole Cloud on a Laptop: Local Development for a Serverless API"
 description: "Every change meant a deploy just to find out whether it worked. This is how the full request path moved onto a developer's machine, plus two production fixes made along the way."
-date: "2026-11-24"
+date: "2026-09-10"
 banner:
   src: "../../images/clement-h-95YRwf6CNw8-unsplash.jpg"
   alt: "Laptop showing a code editor on a white desk beside a plant and a yellow mug"

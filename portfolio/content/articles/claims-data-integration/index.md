@@ -1,7 +1,7 @@
 ---
 title: "Records That Didn't Agree: Wiring New Data Sources into a Claims System"
 description: "A claims system made decisions from records that lived in more than one place, and those places didn't always agree. Connecting them let the system notice and resynchronize the mismatches on its own."
-date: "2026-11-24"
+date: "2025-06-12"
 banner:
   src: "../../images/alan-aprilio-EwVWnl4Z4Wo-unsplash.jpg"
   alt: "Hands connecting colorful puzzle pieces together"

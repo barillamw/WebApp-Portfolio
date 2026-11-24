@@ -1,7 +1,7 @@
 ---
 title: "Trust, but Read the Diff: Code Review When AI Writes Half the Code"
 description: "AI-generated changes compile, pass CI, and look reasonable. Two of them were wrong in ways no pipeline would catch, and both came down to a reviewer reading what actually changed."
-date: "2026-11-24"
+date: "2026-11-12"
 banner:
   src: "../../images/charles-deluvio-DgoyKNgPiFQ-unsplash.jpg"
   alt: "Hands typing on a laptop keyboard"

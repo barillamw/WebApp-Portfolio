@@ -1,7 +1,7 @@
 ---
 title: "The Save Button That Never Came Back: Debugging a Deadlock in a Shared Queue"
 description: "Some saves just hung. The cause turned out to be two well-behaved pieces of database code waiting on each other in the same line."
-date: "2026-11-24"
+date: "2026-11-05"
 banner:
   src: "../../images/james-lo-BntDJXvsacQ-unsplash.jpg"
   alt: "A long line of cars stopped in traffic"

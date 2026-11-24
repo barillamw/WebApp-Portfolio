@@ -1,7 +1,7 @@
 ---
 title: "Your 502 Is Lying: Hardening a Partner-Facing API Contract"
 description: "To a partner, a 502 means the service is down. For three bugs, it really meant the request had something the API didn't expect, and nobody on the other end could tell the difference."
-date: "2026-11-24"
+date: "2026-10-08"
 banner:
   src: "../../images/eliobed-suarez-PN-YnI5stdQ-unsplash.jpg"
   alt: "Traffic light showing red"

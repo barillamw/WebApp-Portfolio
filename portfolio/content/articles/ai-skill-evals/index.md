@@ -1,7 +1,7 @@
 ---
 title: "Does the Skill Help? Testing AI Instructions Like Code"
 description: "Custom AI skills are easy to write and easy to trust. This project gave a team's skills the same treatment as the rest of the codebase: a baseline, a comparison, and evidence before anyone relied on them."
-date: "2026-11-24"
+date: "2026-04-09"
 banner:
   src: "../../images/myles-bloomfield-p8JbzOUwdjg-unsplash.jpg"
   alt: "Small balance scale tipping between spheres on a marble base"

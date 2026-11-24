@@ -1,7 +1,7 @@
 ---
 title: "Agents Don't Get the Keys: Orchestrating AI Development with a State Machine"
 description: "Running one AI coding agent at a time worked until a story touched four microservices. This project built a control plane that lets agents write code fast while a separate system decides what happens next."
-date: "2026-11-24"
+date: "2026-11-19"
 banner:
   src: "../../images/kelly-sikkema-Hl3LUdyKRic-unsplash.jpg"
   alt: "Hand holding a pencil over a blank sketchbook beside a row of pens"

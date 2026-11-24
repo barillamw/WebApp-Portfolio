@@ -1,7 +1,7 @@
 ---
 title: "Twenty-Five Calls a Day: What a Call Center Taught Me About Building Claims Software"
 description: "Before I built software for claims agents, I was one. A stint on a pandemic call center line shaped how I think about the people on the other side of the screen."
-date: "2026-11-24"
+date: "2026-06-04"
 banner:
   src: "../../images/petr-machacek-BeVGrXEktIk-unsplash.jpg"
   alt: "Black and brown headset near a laptop computer"

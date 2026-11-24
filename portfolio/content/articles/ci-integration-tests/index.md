@@ -1,7 +1,7 @@
 ---
 title: "Unit Tests Pass, the API Still Breaks: Adding Integration Tests to CI"
 description: "A pipeline with security scans and unit tests still couldn't tell you whether the API worked. Wiring a shared library of Postman suites into CI closed that gap on every build."
-date: "2026-11-24"
+date: "2025-10-16"
 banner:
   src: "../../images/albert-stoynov-dyUp7WPu5q4-unsplash.jpg"
   alt: "Close-up of blue network cables plugged into a switch"
